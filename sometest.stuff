@@ -3,3 +3,10 @@ hope this is not too much
 I need to do more,
 not enough time.
 Happy Solstice
+
+def recursivePrint(value, num):
+    if num >= sizeof(value) : reutrn(0)
+    print value[num]
+    num++
+    recursivePrint(value, num)
+    
