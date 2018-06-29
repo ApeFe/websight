@@ -9,4 +9,9 @@ def recursivePrint(value, num):
     print value[num]
     num++
     recursivePrint(value, num)
+
+def backPropagation
+    stuff
+    more stuff
+    return null
     
