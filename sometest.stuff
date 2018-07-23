@@ -32,4 +32,6 @@ def intestdisrup
 def girl_you_really_gotta
     if youGotIt = TRUE
 	damnGirl(TRUE)
+def itAllHurts
+    oh god, why
 
