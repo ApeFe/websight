@@ -38,4 +38,10 @@ def nackedGF
     she is shaking her but at me. Hell yeah.
 def stuckInAnUnconfortableCall
     He just goes on and on and on. He is very sad.
+def cleanAllTheThings(thing)
+    if thing.dirty==TRUE
+	clean(thing)
+    else 
+	print "Not Dirty"
 
+	
