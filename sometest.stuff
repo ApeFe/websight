@@ -43,5 +43,6 @@ def cleanAllTheThings(thing)
 	clean(thing)
     else 
 	print "Not Dirty"
+def whyIsItSoHot
+    print "Because of greenhouse gasses"
 
-	
