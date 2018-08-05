@@ -4,6 +4,8 @@ I need to do more,
 not enough time.
 Happy Solstice
 
+pe 
+
 def recursivePrint(value, num):
     if num >= sizeof(value) : reutrn(0)
     print value[num]
