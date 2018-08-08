@@ -53,4 +53,7 @@ def GetRidOfStuff
     all the things go away.
 def AllTheThings
   do all the things
+def AnswerPaulsQuestions
+    assert style
+    assert small functions
 
