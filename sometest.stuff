@@ -56,4 +56,7 @@ def AllTheThings
 def AnswerPaulsQuestions
     assert style
     assert small functions
+def DefJam
+    if beat == TRUE
+	jamout(headbang)
 
